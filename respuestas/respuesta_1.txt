@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+##TIPO## | Base de Datos Orientada a Grafos.
+**Justificación**: Es la arquitectura más eficiente para almacenar nodos y relaciones, permitiendo calcular rutas óptimas y conexiones complejas instantáneamente sin necesidad de múltiples JOINs.

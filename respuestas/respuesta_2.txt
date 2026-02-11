@@ -1,1 +1,2 @@
-TIPO | Justificación corta
+##TIPO## | Base de Datos Documental (NoSQL).
+**Justificación**: Su esquema flexible (schemaless) permite almacenar documentos con estructuras distintas y campos variables sin la rigidez de las tablas relacionales.
